@@ -4,4 +4,27 @@ In this project, we use the LIME and SHAP methods for a better understanding of 
 we cannot use the original model as its own best explanation because it is not easy to understand, so we use a simpler explanation model.
 
 ## Dataset
-We use [(LifeExpectancy)](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who) dataset in our project.
+We use [(LifeExpectancy)](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who) dataset in our project, and use the following preprocessing steps:  
+
+- Delete NANs from the dataset or replace them with a value
+- Encode categorical features
+- Replace the categorical features with new values.
+- Normalize the features
+
+## Model
+
+The model is a neural network with 5 linear layers with 112 input neurons and 1 output nueron. After each linear layer, an activation function (Relu) is used. the network train with MSE loss and an Adam optimizer.
+
+## SHAP
+
+We use SHAP to explain our model. We use two different models of SHAP:
+- Kernel SHAP
+- Deep SHAP
+
+## Resualts
+
+A sample of resualts:
+
+
+
+  
