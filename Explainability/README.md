@@ -23,11 +23,13 @@ The model is a neural network with 5 linear layers with 112 input neurons and 1 
 
 ### Resualts
 
-A sample of resualts:
+A sample of resualts for SHAPE:
 
-Summery plot for SHAP:
+Summery plot for deep SHAP:
 
 <img src="imgs/deep_SHAP.png" data-canonical-src="imgs/deep_SHAP.png" width="400" />
 
-
+Force plot for deep SHAP:
   
+<img src="imgs/deep_sample1.png" data-canonical-src="imgs/deep_sample1.png" width="400" />
+<img src="imgs/deep_sample2.png" data-canonical-src="imgs/deep_sample2.png" width="400" />
