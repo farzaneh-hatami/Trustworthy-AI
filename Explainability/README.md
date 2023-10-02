@@ -27,6 +27,7 @@ A sample of resualts:
 
 Summery plot for SHAP:
 
-<img src="imgs/deep_SHAP.PNG" data-canonical-src="img/pic-2.PNG" width="400" />
+<img src="imgs/deep_SHAP.PNG" data-canonical-src="img/deep_SHAP.PNG" width="400" />
+
 
   
