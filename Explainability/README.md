@@ -31,5 +31,5 @@ Summery plot for deep SHAP:
 
 Force plot for deep SHAP:
   
-<img src="imgs/deep_sample1.png" data-canonical-src="imgs/deep_sample1.png" width="400" />
-<img src="imgs/deep_sample2.png" data-canonical-src="imgs/deep_sample2.png" width="400" />
+<img src="imgs/deep_sample1.PNG" data-canonical-src="imgs/deep_sample1.PNG" width="400" />
+<img src="imgs/deep_sample2.PNG" data-canonical-src="imgs/deep_sample2.PNG" width="400" />
