@@ -34,6 +34,15 @@ Force plot for deep SHAP:
 <img src="imgs/deep_sample1.PNG" data-canonical-src="imgs/deep_sample1.PNG" width="400" />
 <img src="imgs/deep_sample2.PNG" data-canonical-src="imgs/deep_sample2.PNG" width="400" />
 
+Summery plot for kernel-SHAP:
+
+<img src="imgs/kernel.png" data-canonical-src="imgs/kernel.png" width="400" />
+
+Force plot for kernel-SHAP:
+  
+<img src="imgs/kernel_sample1.PNG" data-canonical-src="imgs/kernel_sample1.PNG" width="400" />
+<img src="imgs/kernel_sample2.PNG" data-canonical-src="imgs/kernel_sample2.PNG" width="400" />
+
 ## LIME
 
 We use LIME to explain our model. We use two different models of SHAP:
@@ -65,11 +74,4 @@ Force plot for deep SHAP:
 <img src="imgs/deep_sample1.PNG" data-canonical-src="imgs/deep_sample1.PNG" width="400" />
 <img src="imgs/deep_sample2.PNG" data-canonical-src="imgs/deep_sample2.PNG" width="400" />
 
-Summery plot for kernel-SHAP:
 
-<img src="imgs/kernel.png" data-canonical-src="imgs/kernel.png" width="400" />
-
-Force plot for kernel-SHAP:
-  
-<img src="imgs/kernel_sample1.PNG" data-canonical-src="imgs/kernel_sample1.PNG" width="400" />
-<img src="imgs/kernel_sample2.PNG" data-canonical-src="imgs/kernel_sample2.PNG" width="400" />
