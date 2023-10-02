@@ -67,7 +67,7 @@ Force plot for deep SHAP:
 
 Summery plot for kernel-SHAP:
 
-<img src="imgs/kernel_SHAP.png" data-canonical-src="imgs/kernel_SHAP.png" width="400" />
+<img src="imgs/kernel.png" data-canonical-src="imgs/kernel.png" width="400" />
 
 Force plot for kernel-SHAP:
   
