@@ -42,3 +42,18 @@ Force plot for kernel-SHAP:
   
 <img src="imgs/kernel_sample1.PNG" data-canonical-src="imgs/kernel_sample1.PNG" width="400" />
 <img src="imgs/kernel_sample2.PNG" data-canonical-src="imgs/kernel_sample2.PNG" width="400" />
+
+## LIME
+
+In this project, we want to explain our model with LIME.
+
+### Model & Dataset
+
+We use MobileNet-V2, which is trained on ImageNet. Fially For some selected classes, we show boundaries, pros and cons, and plot the heatmap for them.
+
+### Resualt
+
+A sampel of results on Goldfish class:
+<img src="imgs/goldfish_boundry.png" data-canonical-src="imgs/goldfish_boundry.png" width="400" />
+<img src="imgs/pros_goldfish.png" data-canonical-src="imgs/pros_goldfish.png" width="400" />
+<img src="imgs/heatmap_goldfish.png" data-canonical-src="imgs/heatmap_goldfish.png" width="400" />
