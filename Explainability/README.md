@@ -54,6 +54,7 @@ We use MobileNet-V2, which is trained on ImageNet. Fially For some selected clas
 ### Resualt
 
 A sampel of results on Goldfish class:
+<br/>
 <img src="imgs/goldfish_boundry.png" data-canonical-src="imgs/goldfish_boundry.png" width="400" />
 <img src="imgs/pros_goldfish.png" data-canonical-src="imgs/pros_goldfish.png" width="400" />
-<img src="imgs/heatmap_goldfish.png" data-canonical-src="imgs/heatmap_goldfish.png" width="400" />
+<img src="imgs/headmap_goldfish.png" data-canonical-src="imgs/headmap_goldfish.png" width="400" />
