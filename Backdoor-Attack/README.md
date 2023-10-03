@@ -10,3 +10,7 @@ We use Resnet18 as our training model.
 
 ## Results
 A sample of results:
+<br/>
+<img src="imgs/cat.PNG" data-canonical-src="imgs/cat.PNG" width="400" />
+<img src="imgs/dog.PNG" data-canonical-src="imgs/dog.PNG" width="400" />
+<img src="imgs/trigger.PNG" data-canonical-src="imgs/trigger.PNG" width="400" />
