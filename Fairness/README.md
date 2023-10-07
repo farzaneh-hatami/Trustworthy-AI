@@ -16,9 +16,11 @@ In this part, we examine two sensitive features, including sex and race. For thi
 A sample of result:
 <br/>
 <img src="imgs/unfair_dist.png" data-canonical-src="imgs/unfair_dist.png" width="500" />
+<br/>
 As we can see, the features are not fair. To solve this issue, we use a loss function that includes two terms:
 1'st term: tries to predict the right class.
 2nd term: tries to make features fair.
 A sample of results of this training:
+<br/>
 <img src="imgs/fair_dist.png" data-canonical-src="imgs/fair_dist.png" width="500" />
 
