@@ -8,11 +8,11 @@ This repository contains my Trustworthy AI projects around fairness, explainabil
 - [SHAP](https://github.com/farzaneh-hatami/Trustworthy-AI/tree/b55d6e10bd4059c3d8242e45282a5db2536d96c9/Explainability)
 
 
-## Fairness
+## Fairness:
  - [Fairness](https://github.com/farzaneh-hatami/DeepLearning/tree/main/Semantic_Segmentation)
 
  
- ## Robustness
+ ## Robustness:
   - [Robustness](https://github.com/farzaneh-hatami/Trustworthy-AI/tree/b55d6e10bd4059c3d8242e45282a5db2536d96c9/Robustness)
 
  
