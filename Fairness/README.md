@@ -22,7 +22,7 @@ As we can see, the features are not fair. To solve this issue, we use a loss fun
 1'st term: tries to predict the right class.
 2nd term: tries to make features fair.
 <br/>
-## Result of fari classifer:
+## Result of fair classifer:
 A sample of results of this training:
 <br/>
 <img src="imgs/fair_dist.png" data-canonical-src="imgs/fair_dist.png" width="500" />
