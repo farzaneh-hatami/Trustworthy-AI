@@ -28,6 +28,7 @@ A sample of results of this training:
 <img src="imgs/fair_dist.png" data-canonical-src="imgs/fair_dist.png" width="500" />
 
 ## Conclusion
+As we can see below, there is trade-off between fairness and accuracy.
 
  |   Classifier      | ROC AUC Classifier | Accuracy Classifier | P% rules for race | P% rules for sex | Adversary AUC ROC|
  |-------------------|--------------------|---------------------|-------------------|------------------|------------------|
