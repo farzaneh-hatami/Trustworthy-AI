@@ -16,3 +16,9 @@ A sample of result:
 <img src="imgs/frog.PNG" data-canonical-src="imgs/frog.PNG" width="500" />
 <img src="imgs/cat.PNG" data-canonical-src="imgs/cat.PNG" width="500" />
 
+## Conclusion
+
+ |          Model           |    Threshold    |    Inlier%    |    Outlier%    |
+ |--------------------------|-----------------|---------------|----------------|
+ | train without frog class |       0.45      |      0.86     |      0.14      |
+ | train without cat class  |       0.45      |      0.88     |      0.12      |
