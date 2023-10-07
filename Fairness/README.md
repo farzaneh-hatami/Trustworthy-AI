@@ -21,6 +21,7 @@ A sample of result:
 As we can see, the features are not fair. To solve this issue, we use a loss function that includes two terms:
 1'st term: tries to predict the right class.
 2nd term: tries to make features fair.
+<br/>
 A sample of results of this training:
 <br/>
 <img src="imgs/fair_dist.png" data-canonical-src="imgs/fair_dist.png" width="500" />
