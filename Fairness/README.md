@@ -17,6 +17,7 @@ A sample of result:
 <br/>
 <img src="imgs/unfair_dist.png" data-canonical-src="imgs/unfair_dist.png" width="500" />
 <br/>
+## Train a fair classifer
 As we can see, the features are not fair. To solve this issue, we use a loss function that includes two terms:
 1'st term: tries to predict the right class.
 2nd term: tries to make features fair.
