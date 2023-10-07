@@ -27,3 +27,10 @@ A sample of results of this training:
 <br/>
 <img src="imgs/fair_dist.png" data-canonical-src="imgs/fair_dist.png" width="500" />
 
+## Conclusion
+
+ |   Classifier      | ROC AUC Classifier | Accuracy Classifier | P% rules for race | P% rules for sex | Adversary AUC ROC|
+ |-------------------|--------------------|---------------------|-------------------|------------------|------------------|
+ | Unfair Classifier |       0.89         |         84.3        |         47%       |        29%       |        0.66      |
+ | Fair Classifier   |       0.81         |         80.7        |         86%       |        92%       |        0.5       | 
+
