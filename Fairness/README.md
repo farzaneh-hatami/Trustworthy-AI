@@ -15,4 +15,5 @@ input, sex and race as output.
 
 ## Result
 A sample of result:
+<br/>
 <img src="imgs/unfair_dist.png" data-canonical-src="imgs/unfair_dist.png" width="400" />
